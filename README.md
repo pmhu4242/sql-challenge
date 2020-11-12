@@ -11,7 +11,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 ## Data Modeling 
 Insepct the CSV's and create an ERD of the tables to help with creation of the table schema
 
-![SQL_homework_ERD](ERD.png)
+![SQL_homework_ERD](data/ERD.png)
 
 
 ## Data Engineering
